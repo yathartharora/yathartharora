@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-# Introduction
 
 A brief history of myself:
 
