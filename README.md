@@ -3,7 +3,8 @@
 
 A brief history of myself:
 
-- 🔭 I’m currently working as an intern with Zebpay.
+- 🔭 Past: R&D Intern@Zebpay, Software Trainee@iimjobs.com
+- 📚 Present: MS Computer Science - AI @University of Southern California
 - 🌱 Enthusiastic about Blockchain and Cryptocurrencies.
 - 👯 I trust smart contracts more than I trust myself.
 - 🤔 Curious about world and it's vague rules.
