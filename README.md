@@ -3,8 +3,9 @@
 
 A brief history of myself:
 
-- 🔭 Past: R&D Intern@Zebpay, Software Trainee@iimjobs.com
-- 📚 Present: MS Computer Science - AI @University of Southern California
+- 🔭 Past: R&D Intern@Zebpay, Software Trainee @iimjobs.com
+- 📚 Present: Software Engineer Intern @TikTok
+- 📚 Education: MS CS @USC'24
 - 🌱 Enthusiastic about Blockchain and Cryptocurrencies.
 - 👯 I trust smart contracts more than I trust myself.
 - 🤔 Curious about world and it's vague rules.
