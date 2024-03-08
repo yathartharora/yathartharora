@@ -13,3 +13,6 @@ A brief history of myself:
 - 📝 Subscribe to my weekly newsletter here: https://yathartharora.substack.com
 - ✔️ My decentralized blog: https://my-decentralised-blog.vercel.app/
 - ⚡ Fun fact: There are only 21 million bitcoins.
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yathartharora)](https://github.com/anuraghazra/github-readme-stats)
