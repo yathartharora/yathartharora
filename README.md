@@ -3,7 +3,8 @@
 
 A brief history of myself:
 
-- 🔭 Building [@BiteCheck](https://apps.apple.com/us/app/bitecheck/id6746371220BiteCheck)
+- 🔭 Building [@BiteCheck](https://apps.apple.com/us/app/bitecheck/id6746371220
+BiteCheck)
 - Past: R&D Intern@Zebpay, Software Trainee @iimjobs.com, Software Engineer Intern @TikTok
 - 📚 Education: MS CS @USC'24
 - 🌱 Enthusiastic about Blockchain, Cryptocurrencies, AI, Machine Learning.
